@@ -8,7 +8,21 @@
 3. 开源软件 
 4. 金融交易
    
+## 这是一行代码
 
-``` ruby
-puts  1000.times(i love you)
+`puts  1000.times(i love you)`
+
+## 这是多行代码
+
+``` ruby 
+def  update {
+    myclass = Myclass.find()
+}
 ```
+
+## 无序列表
+* 英文
+* 数学 
+* 编程 
+* 厨艺
+
